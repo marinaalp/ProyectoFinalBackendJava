@@ -227,9 +227,18 @@ npm run dev
 
 ```text
 http://localhost:5173
-```
+
+Usuario administrador
 Usuario: admin
 Contraseña: 1234
+
+Usuario de compra
+Usuario: pepe
+Contraseña: 1234
+
+
+```
+
 ---
 
 # 👥 Autor: Marina L.
