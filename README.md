@@ -228,9 +228,10 @@ npm run dev
 ```text
 http://localhost:5173
 ```
-
+Usuario: admin
+Contraseña: 1234
 ---
 
-# 👥 Autores
+# 👥 Autor: Marina L.
 
 Proyecto desarrollado como entrega final de un sistema de comercio electrónico utilizando Spring Boot, React y MySQL.
